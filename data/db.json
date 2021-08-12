@@ -1,0 +1,14 @@
+{
+  "recipe": [
+    {
+      "id": 1,
+      "name": "Fraza",
+      "recipe": "beef rendang"
+    },
+    {
+      "id": 2,
+      "name": "Tegar",
+      "recipe": "Telur Gulung"
+    }
+  ]
+}
